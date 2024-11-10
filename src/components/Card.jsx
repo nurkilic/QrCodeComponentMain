@@ -2,7 +2,7 @@ import image from "../assets/images/image-qr-code.png";
 
 const Card = () => {
   return (
-    <div className="w-80 h-[499px] bg-white shadow-lg rounded-2xl p-4">
+    <div className="w-80 h-[499px] bg-white shadow-lg rounded-2xl p-4 ">
       <img src={image} alt="" className="rounded-2xl" />
       <div className="flex flex-col p-4">
         <h2 className="font-bold text-xl text-[var(--slate900)]">
