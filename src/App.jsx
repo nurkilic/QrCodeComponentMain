@@ -3,8 +3,9 @@ import Card from "./components/Card";
 
 function App() {
   return (
-    <div className="flex justify-center items-center h-screen text-center  ">
+    <div className="flex flex-col justify-center items-center h-[calc(100vh-27px)] text-center  ">
       <Card />
+     
     </div>
   );
 }

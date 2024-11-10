@@ -17,6 +17,7 @@ html {
   padding: 0;
   font-family: Outfit, sans-serif;
   background-color: var(--slate300);
+  height: 100vh;
 }
 .attribution {
   font-size: 11px;
